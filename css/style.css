@@ -19,7 +19,7 @@ font-size: 1.750rem; /*글자-크기 : 1.750 배(기본값*1.750) */
 
 .menu {
 font-size: 1.750rem;
-}
+}g
 
 .menu a {
 color:black ;
@@ -55,7 +55,7 @@ margin:0 0 0 15px;
        margin: 0 1rem; /* 바깥여백 : 좌우만 기본값 1배 */
    }
    .profile img{
-       max-width: 100%; /* 최대 폭 : 가로 100% */
+       width: 30%; /* 최대 폭 : 가로 100% */
    }
 }
 
