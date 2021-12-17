@@ -28,7 +28,7 @@ margin:0 0 0 15px;
 }
 
 /* 화면의 가로폭이 360픽셀이 최대라면 */
-@media screen and (max-width:360px){  /* 여기에 있는 스타일 적용*/
+@media screen and (max-width:480px){  /* 여기에 있는 스타일 적용*/
    .wrap {
        width: 100%;
    }
